@@ -26,28 +26,27 @@ Code → Download ZIP
 darktable-work
 
 整个文件夹复制到你的 skills 目录。
-```
 
-结构：
 
-```
+## 项目结构
+
+```text
 darktable-work/
-├── SKILL.md                              # 核心行为规范（最高优先级）
-├── README.md                             # 本说明文件
+├── SKILL.md
+├── README.md
 ├── knowledge/
-│   ├── darktable_modules.md              # darktable 中文模块知识库
-│   ├── portrait_workflow.md              # 人像后期流程
-│   ├── landscape_workflow.md             # 风光后期流程
-│   ├── photography_styles.md             # 摄影风格知识库
-│   └── jpg_raw_difference.md             # JPG 与 RAW 后期区别
+│   ├── darktable_modules.md
+│   ├── portrait_workflow.md
+│   ├── landscape_workflow.md
+│   ├── photography_styles.md
+│   └── jpg_raw_difference.md
 ├── examples/
-│   ├── portrait_example.md               # 人像修图示例
-│   ├── landscape_example.md              # 风光修图示例
-│   └── travel_photo_example.md           # 旅行照片修图示例
+│   ├── portrait_example.md
+│   ├── landscape_example.md
+│   └── travel_photo_example.md
 └── templates/
-    └── editing_report_template.md        # 修图报告模板
+    └── editing_report_template.md
 ```
-
 
 ## 使用方式
 
