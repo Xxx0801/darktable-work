@@ -15,10 +15,26 @@ darktable 摄影后期修图助手。
 
 ## 安装方式
 
-本 Skill 采用项目级安装，目录位于当前工作区的 skills 目录下：
 
-```
-D:\WorkBuddy工作空间\写一点代码\.workbuddy\skills\darktable-work\
+### 方法一：下载项目
+
+克隆仓库：
+
+```bash
+git clone https://github.com/Xxx0801/darktable-work.git
+###方法二：手动安装
+
+下载本仓库：
+
+点击：
+
+Code → Download ZIP
+
+解压后，将：
+
+darktable-work
+
+整个文件夹复制到你的 skills 目录。
 ```
 
 结构：
