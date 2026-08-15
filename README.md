@@ -15,15 +15,6 @@ darktable 摄影后期修图助手。
 
 ## 安装方式
 
-
-### 方法一：下载项目
-
-克隆仓库：
-
-```bash
-git clone https://github.com/Xxx0801/darktable-work.git
-###方法二：手动安装
-
 下载本仓库：
 
 点击：
@@ -57,8 +48,6 @@ darktable-work/
     └── editing_report_template.md        # 修图报告模板
 ```
 
-> 若希望改为用户级（全局所有项目可用），可将整个 `darktable-work/` 目录移动到
-> `C:\Users\FangKaiXin\.workbuddy\skills\` 下即可。
 
 ## 使用方式
 
